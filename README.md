@@ -1,2 +1,0 @@
-# website
-git to docker
